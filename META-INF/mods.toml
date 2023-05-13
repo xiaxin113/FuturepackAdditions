@@ -1,0 +1,17 @@
+modLoader="lowcodefml"
+loaderVersion="[40,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="futurepack_additions"
+version="1.0"
+displayName="Futurepack Additions"
+logoFile="pack.png"
+authors="Xia_Xin,YuapixN"
+
+[[dependencies.futurepack_additions]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"

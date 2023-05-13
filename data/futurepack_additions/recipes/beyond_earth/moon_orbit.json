@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+		"WWW",
+        "W W",
+		"WWW"
+    ],
+    "key": {
+		"W": { 
+			"item" : "minecraft:bedrock"
+		}
+    },
+    "result": {
+        "item": "futurepack:spacecoordinats",
+        "count": 1,
+        "nbt": {"display":{"Name":"[{\"text\":\"月球空间站｜Moon Orbit\"}]"},"Planet":"beyond_earth:moon_orbit"}
+    }
+}	
+	

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+		"WWW",
+        "   ",
+		"   "
+    ],
+    "key": {
+		"W": { 
+			"item" : "minecraft:bedrock"
+		}
+    },
+    "result": {
+        "item": "futurepack:spacecoordinats",
+        "count": 1,
+        "nbt": {"display":{"Name":"[{\"text\":\"水星空间站｜Mercury Orbit\"}]"},"Planet":"beyond_earth:mercury_orbit"}
+    }
+}	
+	

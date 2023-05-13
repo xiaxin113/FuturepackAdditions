@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+		"W  ",
+        "W  ",
+		"W  "
+    ],
+    "key": {
+		"W": { 
+			"item" : "minecraft:bedrock"
+		}
+    },
+    "result": {
+        "item": "futurepack:spacecoordinats",
+        "count": 1,
+        "nbt": {"display":{"Name":"[{\"text\":\"金星空间站｜Venus Orbit\"}]"},"Planet":"beyond_earth:venus_orbit"}
+    }
+}

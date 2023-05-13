@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+		"WWW",
+        "WWW",
+		"WWW"
+    ],
+    "key": {
+		"W": { 
+			"item" : "minecraft:bedrock"
+		}
+    },
+    "result": {
+        "item": "futurepack:spacecoordinats",
+        "count": 1,
+        "nbt": {"display":{"Name":"[{\"text\":\"霜原星｜Glacio\"}]"},"Planet":"beyond_earth:glacio"}
+    }
+}	
+	

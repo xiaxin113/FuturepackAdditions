@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+		"WWW",
+        "   ",
+		"WWW"
+    ],
+    "key": {
+		"W": { 
+			"item" : "minecraft:bedrock"
+		}
+    },
+    "result": {
+        "item": "futurepack:spacecoordinats",
+        "count": 1,
+        "nbt": {"Planet":"minecraft:the_nether"}
+    }
+}	
+	

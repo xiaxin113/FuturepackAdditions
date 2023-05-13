@@ -1,6 +1,6 @@
 modLoader="lowcodefml"
 loaderVersion="[40,)"
-license="All Rights Reserved"
+license="MIT license"
 
 [[mods]]
 modId="futurepack_additions"

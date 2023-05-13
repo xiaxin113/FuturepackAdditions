@@ -13,7 +13,7 @@
     "result": {
         "item": "futurepack:spacecoordinats",
         "count": 1,
-        "nbt": {"Planet":"minecraft:the_nether"}
+        "nbt": {"display":{"Name":"[{\"text\":\"下界｜The Nether\"}]"},"Planet":"minecraft:the_nether"}
     }
 }	
 	
